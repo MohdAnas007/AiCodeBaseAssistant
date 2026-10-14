@@ -1,0 +1,10 @@
+{
+  "watch": ["index.js", "utils", "config"],
+  "ignore": [
+    "node_modules/**",
+    ".git/**",
+    "logs/**",
+    "output/**"
+  ],
+  "ext": "js,json"
+}
